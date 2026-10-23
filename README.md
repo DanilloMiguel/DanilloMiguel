@@ -6,7 +6,7 @@
 Trabalho com transporte e omnichannel no varejo de moda: do parâmetro no TMS e no OMS até o dashboard que apoia a decisão. Uso **Python, SQL e Power BI** para transformar a operação logística em número e em automação.
 
 ## Resultados que já entreguei
-- 📉 ~20% de economia no custo de frete, levando o custo de frete sobre a venda de 6% para 4%
+- 📉 ~20% de economia no custo de frete e redução do percentual de custo de frete de 6% para 4%
 - ⚙️ Automação de +500 tabelas de frete e integração de +165 lojas com Python e VBA
 - 🚀 Same Day e Next Day expandidos para +75 lojas
 - ⏱️ Rotina de indicadores que levava 5 horas passou a levar 20 minutos
